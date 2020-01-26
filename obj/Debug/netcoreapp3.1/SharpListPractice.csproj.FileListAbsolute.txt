@@ -1,0 +1,11 @@
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.exe
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.deps.json
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.runtimeconfig.json
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.runtimeconfig.dev.json
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.dll
+C:\Users\scawd\source\repos\SharpListPractice\bin\Debug\netcoreapp3.1\SharpListPractice.pdb
+C:\Users\scawd\source\repos\SharpListPractice\obj\Debug\netcoreapp3.1\SharpListPractice.csprojAssemblyReference.cache
+C:\Users\scawd\source\repos\SharpListPractice\obj\Debug\netcoreapp3.1\SharpListPractice.AssemblyInfoInputs.cache
+C:\Users\scawd\source\repos\SharpListPractice\obj\Debug\netcoreapp3.1\SharpListPractice.AssemblyInfo.cs
+C:\Users\scawd\source\repos\SharpListPractice\obj\Debug\netcoreapp3.1\SharpListPractice.dll
+C:\Users\scawd\source\repos\SharpListPractice\obj\Debug\netcoreapp3.1\SharpListPractice.pdb
